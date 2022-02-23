@@ -1,0 +1,7 @@
+type: framework
+content:
+- Fit a linear model
+- Multiple linear regression and predictions
+- Implement metrics
+- Compare with the Scikit-Learn Regression algorithm
+current_task: 3
